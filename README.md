@@ -1,5 +1,5 @@
 # Nvidia Screen Tearing Fix
-. Solving nvidia legacy graphics cards screen tearing issue on linux based operating systems.
+Solving nvidia legacy graphics cards screen tearing issue on linux based operating systems.
 
 ## Steps
 1. Create file named /etc/modprobe.d/99-prime-sync.conf

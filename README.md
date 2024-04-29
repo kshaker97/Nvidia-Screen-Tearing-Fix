@@ -9,7 +9,7 @@
 ```
  sudo touch /etc/modprobe.d/99-prime-sync.conf
 ```
-2. **Add this Module Option 'options nvidia-drm modeset=1' to The file:**
+2. **Add this Module Option 'options nvidia-drm modeset=1' to the File:**
 ```
  sudo echo "options nvidia-drm modeset=1" > /etc/modprobe.d/99-prime-sync.conf
 ```
